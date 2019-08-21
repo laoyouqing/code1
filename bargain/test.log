@@ -1,0 +1,1277 @@
+
+
+2019-07-10 18:20:12 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754012&total_amount=1&sign=<md5 HASH object @ 0x0000000005135B98>
+
+2019-07-10 18:20:12 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:12 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754012&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:12 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:12 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754012&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:12 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:12 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754012&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:12 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:12 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754012&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:12 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:12 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754012&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:12 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:12 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754012&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:13 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:13 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754013&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:13 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:13 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754013&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:13 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:13 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754013&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:13 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:13 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754013&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:13 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:13 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754013&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:13 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:13 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754013&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:13 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:13 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754013&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:13 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:13 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754013&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:13 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:13 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754013&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:13 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:13 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754013&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:14 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:14 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754014&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135A08>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135AD0>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:15 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:15 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754015&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:16 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:20:16 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754016&total_amount=1&sign=<md5 HASH object @ 0x0000000005135738>
+
+2019-07-10 18:20:17 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:23 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754083&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:23 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:23 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754083&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:23 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:23 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754083&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:23 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:23 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754083&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:23 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:23 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754083&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:23 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:23 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754083&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:23 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:23 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754083&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:24 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:24 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754084&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:24 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:24 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754084&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:24 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:24 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754084&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:24 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:24 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754084&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:24 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:24 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754084&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:24 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:24 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754084&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:24 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:24 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754084&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:24 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:24 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754084&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:24 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:24 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754084&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:24 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:24 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754084&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:25 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:25 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754085&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:26 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:26 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754086&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:26 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:26 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754086&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:26 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:26 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754086&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:26 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:26 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754086&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:26 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:26 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754086&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:26 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:26 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754086&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:26 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:26 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754086&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:26 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:26 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754086&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:26 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:26 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754086&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:26 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:26 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754086&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:27 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:27 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754087&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:27 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:27 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754087&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:27 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:27 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754087&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:27 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:27 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754087&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:27 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:27 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754087&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:27 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:21:27 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754087&total_amount=1&sign=<md5 HASH object @ 0x0000000005135788>
+
+2019-07-10 18:21:28 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:01 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754121&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:01 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:01 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754121&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:01 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:01 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754121&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:01 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:01 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754121&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:01 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:01 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754121&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:01 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:01 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754121&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:01 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:01 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754121&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:02 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:02 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754122&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:03 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:03 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754123&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:04 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:04 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754124&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:04 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:04 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754124&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:04 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:04 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754124&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:04 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:04 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754124&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:04 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:04 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754124&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:04 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:04 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754124&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:04 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:04 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754124&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:05 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:05 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754125&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:05 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:05 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754125&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:05 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:05 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754125&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:05 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:05 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754125&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:05 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:05 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754125&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:05 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:05 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754125&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:05 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:22:06 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754125&total_amount=1&sign=<md5 HASH object @ 0x0000000005123738>
+
+2019-07-10 18:22:06 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:46 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754526&total_amount=1&sign=646f80283c0b12cc8b828a304a51dba7
+
+2019-07-10 18:28:47 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:47 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754527&total_amount=1&sign=5b2a4ced2cb1d88eb6db349853520e7b
+
+2019-07-10 18:28:47 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:47 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754527&total_amount=1&sign=5b2a4ced2cb1d88eb6db349853520e7b
+
+2019-07-10 18:28:47 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:47 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754527&total_amount=1&sign=5b2a4ced2cb1d88eb6db349853520e7b
+
+2019-07-10 18:28:48 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:48 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754528&total_amount=1&sign=e18992c6741023b124eac1f61e9cc099
+
+2019-07-10 18:28:48 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:48 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754528&total_amount=1&sign=e18992c6741023b124eac1f61e9cc099
+
+2019-07-10 18:28:48 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:48 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754528&total_amount=1&sign=e18992c6741023b124eac1f61e9cc099
+
+2019-07-10 18:28:48 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:48 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754528&total_amount=1&sign=e18992c6741023b124eac1f61e9cc099
+
+2019-07-10 18:28:49 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:49 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754529&total_amount=1&sign=326ad5c9111febc9ed77414dc18b7ae8
+
+2019-07-10 18:28:49 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:49 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754529&total_amount=1&sign=326ad5c9111febc9ed77414dc18b7ae8
+
+2019-07-10 18:28:49 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:49 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754529&total_amount=1&sign=326ad5c9111febc9ed77414dc18b7ae8
+
+2019-07-10 18:28:49 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:49 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754529&total_amount=1&sign=326ad5c9111febc9ed77414dc18b7ae8
+
+2019-07-10 18:28:50 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:50 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754530&total_amount=1&sign=44eb7d79320866484dffb5a5c8e5b8f6
+
+2019-07-10 18:28:50 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:50 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754530&total_amount=1&sign=44eb7d79320866484dffb5a5c8e5b8f6
+
+2019-07-10 18:28:50 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:28:50 支付接口 发送字符串: body=5&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190507143025153859&signType=MD5&subject=test1&timeStamp=1562754530&total_amount=1&sign=44eb7d79320866484dffb5a5c8e5b8f6
+
+2019-07-10 18:28:51 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754816&total_amount=1&sign=71b66a276611688d1c94c0df0817fba3
+
+2019-07-10 18:33:36 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754816&total_amount=1&sign=71b66a276611688d1c94c0df0817fba3
+
+2019-07-10 18:33:36 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754816&total_amount=1&sign=71b66a276611688d1c94c0df0817fba3
+
+2019-07-10 18:33:36 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754816&total_amount=1&sign=71b66a276611688d1c94c0df0817fba3
+
+2019-07-10 18:33:36 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754816&total_amount=1&sign=71b66a276611688d1c94c0df0817fba3
+
+2019-07-10 18:33:36 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754816&total_amount=1&sign=71b66a276611688d1c94c0df0817fba3
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:37 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754817&total_amount=1&sign=70c6f90a65aad0aacbe0a0a12e39dba9
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:38 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754818&total_amount=1&sign=4d482fd9eecf884cfbf4b774328ed8a1
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:39 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:39 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754819&total_amount=1&sign=7618d3cb6abe38283d71ca125bbb4ff0
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:40 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:33:40 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754820&total_amount=1&sign=dc917aa2ebc5a891f83c3e612e60ee78
+
+2019-07-10 18:33:41 返回数据: {'code': -99, 'message': '签名错误', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:13 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754913&total_amount=1&sign=492a0827e66262d40bc781da3328ac3b
+
+2019-07-10 18:35:13 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:13 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754913&total_amount=1&sign=492a0827e66262d40bc781da3328ac3b
+
+2019-07-10 18:35:13 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:13 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754913&total_amount=1&sign=492a0827e66262d40bc781da3328ac3b
+
+2019-07-10 18:35:14 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:14 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754914&total_amount=1&sign=932011377257b7f9a9ebe64e8cc602e1
+
+2019-07-10 18:35:14 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:14 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754914&total_amount=1&sign=932011377257b7f9a9ebe64e8cc602e1
+
+2019-07-10 18:35:14 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:14 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754914&total_amount=1&sign=932011377257b7f9a9ebe64e8cc602e1
+
+2019-07-10 18:35:14 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:14 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754914&total_amount=1&sign=932011377257b7f9a9ebe64e8cc602e1
+
+2019-07-10 18:35:15 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:15 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754915&total_amount=1&sign=7946758bfe557d2937f4330604594e89
+
+2019-07-10 18:35:15 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:15 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754915&total_amount=1&sign=7946758bfe557d2937f4330604594e89
+
+2019-07-10 18:35:15 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:15 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754915&total_amount=1&sign=7946758bfe557d2937f4330604594e89
+
+2019-07-10 18:35:15 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:15 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754915&total_amount=1&sign=7946758bfe557d2937f4330604594e89
+
+2019-07-10 18:35:16 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:16 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754916&total_amount=1&sign=fb005390f6656b2d8a1472d49152a992
+
+2019-07-10 18:35:16 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:16 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754916&total_amount=1&sign=fb005390f6656b2d8a1472d49152a992
+
+2019-07-10 18:35:16 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:16 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754916&total_amount=1&sign=fb005390f6656b2d8a1472d49152a992
+
+2019-07-10 18:35:16 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:16 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754916&total_amount=1&sign=fb005390f6656b2d8a1472d49152a992
+
+2019-07-10 18:35:17 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:17 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754917&total_amount=1&sign=ba23fb0ee30694cf9167c36c25b4c75a
+
+2019-07-10 18:35:17 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:17 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754917&total_amount=1&sign=ba23fb0ee30694cf9167c36c25b4c75a
+
+2019-07-10 18:35:17 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:17 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754917&total_amount=1&sign=ba23fb0ee30694cf9167c36c25b4c75a
+
+2019-07-10 18:35:17 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:35:17 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562754917&total_amount=1&sign=ba23fb0ee30694cf9167c36c25b4c75a
+
+2019-07-10 18:35:18 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:34 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755054&total_amount=1&sign=23b6f4326b0e5ff16d5faf00ac9201ad
+
+2019-07-10 18:37:34 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:34 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755054&total_amount=1&sign=23b6f4326b0e5ff16d5faf00ac9201ad
+
+2019-07-10 18:37:34 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:34 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755054&total_amount=1&sign=23b6f4326b0e5ff16d5faf00ac9201ad
+
+2019-07-10 18:37:35 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:35 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755055&total_amount=1&sign=ccba8505d8d9ce0a829a9140921e8796
+
+2019-07-10 18:37:35 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:35 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755055&total_amount=1&sign=ccba8505d8d9ce0a829a9140921e8796
+
+2019-07-10 18:37:35 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:35 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755055&total_amount=1&sign=ccba8505d8d9ce0a829a9140921e8796
+
+2019-07-10 18:37:35 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:35 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755055&total_amount=1&sign=ccba8505d8d9ce0a829a9140921e8796
+
+2019-07-10 18:37:36 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755056&total_amount=1&sign=638d2a61185e50b9480d0211b608d9e0
+
+2019-07-10 18:37:36 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755056&total_amount=1&sign=638d2a61185e50b9480d0211b608d9e0
+
+2019-07-10 18:37:36 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755056&total_amount=1&sign=638d2a61185e50b9480d0211b608d9e0
+
+2019-07-10 18:37:36 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755056&total_amount=1&sign=638d2a61185e50b9480d0211b608d9e0
+
+2019-07-10 18:37:37 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755057&total_amount=1&sign=80340b7306112f66cdf617d86bc00193
+
+2019-07-10 18:37:37 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755057&total_amount=1&sign=80340b7306112f66cdf617d86bc00193
+
+2019-07-10 18:37:37 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755057&total_amount=1&sign=80340b7306112f66cdf617d86bc00193
+
+2019-07-10 18:37:37 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:37 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755057&total_amount=1&sign=80340b7306112f66cdf617d86bc00193
+
+2019-07-10 18:37:38 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755058&total_amount=1&sign=48ef0a984b5449fe77557fb20740b632
+
+2019-07-10 18:37:38 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755058&total_amount=1&sign=48ef0a984b5449fe77557fb20740b632
+
+2019-07-10 18:37:38 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755058&total_amount=1&sign=48ef0a984b5449fe77557fb20740b632
+
+2019-07-10 18:37:38 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:37:38 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=o0FmZjk93IITp9X4awH1c2vCz9vY&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755058&total_amount=1&sign=48ef0a984b5449fe77557fb20740b632
+
+2019-07-10 18:37:39 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-10 18:40:12 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/orders/&return_url=http://47.112.126.133:8000/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562755212&total_amount=1&sign=7b02b90b6f0f31098661c1377948ef9e
+
+2019-07-10 18:40:13 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190710183936295089', 'data2': None}
+
+2019-07-11 08:16:36 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562804196&total_amount=1&sign=003ac913be5ee0a7a2db6585e8d7d67d
+
+2019-07-11 08:16:37 返回数据: {'code': -1, 'message': '此订单已经支付成功，请更换订单号', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 08:17:07 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562804227&total_amount=1&sign=779029157184567a96210e9536d3c255
+
+2019-07-11 08:17:07 返回数据: {'code': -1, 'message': '此订单已经支付成功，请更换订单号', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 08:17:10 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562804230&total_amount=1&sign=c360bc4b4f131c2c0f84da126b03e115
+
+2019-07-11 08:17:10 返回数据: {'code': -1, 'message': '此订单已经支付成功，请更换订单号', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 08:18:26 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562804306&total_amount=1&sign=2201f53109456511d253bcc4a1492d00
+
+2019-07-11 08:18:26 返回数据: {'code': -1, 'message': '此订单已经支付成功，请更换订单号', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 08:18:29 支付接口 发送字符串: body=8&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=8&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562804309&total_amount=1&sign=25f036dbbf9a4950d48926649c331929
+
+2019-07-11 08:18:29 返回数据: {'code': -1, 'message': '此订单已经支付成功，请更换订单号', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 09:32:43 支付接口 发送字符串: body=19&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=19&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562808763&total_amount=1&sign=951e8a7d508573b3e27241dcaff74188
+
+2019-07-11 09:32:44 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711093159432785', 'data2': None}
+
+2019-07-11 09:33:53 支付接口 发送字符串: body=19&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=19&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562808833&total_amount=1&sign=08ff7b43fff82fa99e560698af9e43f1
+
+2019-07-11 09:33:54 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711093309435445', 'data2': None}
+
+2019-07-11 09:35:59 支付接口 发送字符串: body=19&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=19&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562808959&total_amount=1&sign=857f2e92b3355579e8cfa28d92f54ef2
+
+2019-07-11 09:36:00 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711093515079665', 'data2': None}
+
+2019-07-11 09:36:02 支付接口 发送字符串: body=19&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=19&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562808962&total_amount=1&sign=365a3076ca4ef9a3f473b3a3db527655
+
+2019-07-11 09:36:03 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711093518160158', 'data2': None}
+
+2019-07-11 09:36:05 支付接口 发送字符串: body=19&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=19&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562808965&total_amount=1&sign=6e21bf912713db0cf4059e7c8fc511c7
+
+2019-07-11 09:36:06 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711093521179925', 'data2': None}
+
+2019-07-11 09:36:09 支付接口 发送字符串: body=19&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=19&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562808969&total_amount=1&sign=2de082cbd46ee8ee3890e7d71d2551a3
+
+2019-07-11 09:36:09 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711093524533376', 'data2': None}
+
+2019-07-11 09:36:12 支付接口 发送字符串: body=19&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=19&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562808972&total_amount=1&sign=c7b68618ffdf8d8d186d42ae61933b90
+
+2019-07-11 09:36:12 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711093527461913', 'data2': None}
+
+2019-07-11 09:40:39 支付接口 发送字符串: body=19&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338001/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=19&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562809239&total_amount=1&sign=b9b99446b5ba23670f9b67ab9d9fbea7
+
+2019-07-11 09:40:40 返回数据: {'code': -1, 'message': '此订单已经支付成功，请更换订单号', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 09:41:04 支付接口 发送字符串: body=17&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338001/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=17&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562809264&total_amount=1&sign=e9a75114d26fcbb797c53c276b005e37
+
+2019-07-11 09:41:04 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711094019783607', 'data2': None}
+
+2019-07-11 09:46:53 支付接口 发送字符串: body=16&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338001/goods/pay_suc/&openid=oCOvf5-9-CJGglrs8ez_6fF26O8Q&out_trade_no=16&paymentType=rz_wx_wap&quit_url=http://47.112.126.133:8000/goods/pay/&return_url=http://47.112.126.133:8000/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562809613&total_amount=1&sign=fcb13fc6838eb49b286e7199aa7fd071
+
+2019-07-11 09:46:54 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711094609228173', 'data2': None}
+
+2019-07-11 09:50:44 支付接口 发送字符串: body=16&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338001/goods/pay_suc/&openid=oCOvf5-9-CJGglrs8ez_6fF26O8Q&out_trade_no=16&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562809844&total_amount=1&sign=41afb1d2eff2b0ffef4e80e46bdf3e08
+
+2019-07-11 09:50:44 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711094959288205', 'data2': None}
+
+2019-07-11 09:50:47 支付接口 发送字符串: body=16&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338001/goods/pay_suc/&openid=oCOvf5-9-CJGglrs8ez_6fF26O8Q&out_trade_no=16&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562809847&total_amount=1&sign=623b5691107b8f0e2f80e885fe3cee23
+
+2019-07-11 09:50:47 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711095002730234', 'data2': None}
+
+2019-07-11 09:51:02 支付接口 发送字符串: body=16&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338001/goods/pay_suc/&openid=oCOvf5-9-CJGglrs8ez_6fF26O8Q&out_trade_no=16&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562809862&total_amount=1&sign=c277f8407c225b953d795d9eb5966045
+
+2019-07-11 09:51:02 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711095017512539', 'data2': None}
+
+2019-07-11 12:31:19 支付接口 发送字符串: body=21&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=47.112.126.1338001/goods/pay_suc/&openid=oCOvf5_bPLr-WJ7T41Iv_s7qi53w&out_trade_no=21&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562819479&total_amount=1&sign=0e7217523dbbd99bdfbd1072fe559442
+
+2019-07-11 12:31:21 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711123103072771', 'data2': None}
+
+2019-07-11 12:33:43 支付接口 发送字符串: body=20&client_ip=47.107.169.40&currency=CNY&nonce_str=1&notify_url=192.168.1.58001/goods/pay_suc/&openid=oCOvf5_bPLr-WJ7T41Iv_s7qi53w&out_trade_no=20&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562819623&total_amount=1&sign=67453b93bb7aa298edbfcd2f0cf0c5c4
+
+2019-07-11 12:33:43 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711123326145211', 'data2': None}
+
+2019-07-11 12:45:16 支付接口 发送字符串: body=18&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5_bPLr-WJ7T41Iv_s7qi53w&out_trade_no=18&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562820316&total_amount=1&sign=dda7ddebf5d50233f7213d0bb5e79d0f
+
+2019-07-11 12:45:17 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711124459032276', 'data2': None}
+
+2019-07-11 13:44:50 支付接口 发送字符串: body=18&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5_bPLr-WJ7T41Iv_s7qi53w&out_trade_no=18&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562823890&total_amount=1&sign=6a846f0e76d6d9ae25375f46594f3248
+
+2019-07-11 13:44:50 返回数据: {'code': -1, 'message': '此订单已经支付成功，请更换订单号', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 13:44:57 支付接口 发送字符串: body=17&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=47.112.126.1338003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=17&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562823897&total_amount=1&sign=b708931e224629f44c28f5d287be41e0
+
+2019-07-11 13:44:57 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711134438974717', 'data2': None}
+
+2019-07-11 13:45:37 支付接口 发送字符串: body=17&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=47.112.126.133:8003/goods/pay_suc/&openid=oCOvf5zSNd7cOiz6_u4O-oA6ZEDs&out_trade_no=17&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562823937&total_amount=1&sign=e6cae15f455bb8a491dd343728842c79
+
+2019-07-11 13:45:38 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711134519652883', 'data2': None}
+
+2019-07-11 13:47:57 支付接口 发送字符串: body=16&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=47.112.126.133:8003/goods/pay_suc/&openid=oCOvf5-9-CJGglrs8ez_6fF26O8Q&out_trade_no=16&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562824077&total_amount=1&sign=d46e324b7d204f58bcd697714f334738
+
+2019-07-11 13:47:57 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711134738767340', 'data2': None}
+
+2019-07-11 13:55:26 支付接口 发送字符串: body=12&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=47.112.126.133:8003/goods/pay_suc/&openid=oCOvf53vqj5VijzvKxLRaji-FzBg&out_trade_no=12&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562824526&total_amount=1&sign=87ac166ec667e37a1dc22926eed760c2
+
+2019-07-11 13:55:26 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711135507736752', 'data2': None}
+
+2019-07-11 13:55:28 支付接口 发送字符串: body=12&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=47.112.126.133:8003/goods/pay_suc/&openid=oCOvf53vqj5VijzvKxLRaji-FzBg&out_trade_no=12&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562824528&total_amount=1&sign=0dc77a95bcf185f623c5e8204ef5a722
+
+2019-07-11 13:55:28 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711135510009272', 'data2': None}
+
+2019-07-11 14:11:06 支付接口 发送字符串: body=12&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8002/my_test/&openid=oCOvf53vqj5VijzvKxLRaji-FzBg&out_trade_no=12&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562825466&total_amount=1&sign=9d4b6b1a7c242d96426fdd6c58d424db
+
+2019-07-11 14:11:11 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711141052231618', 'data2': None}
+
+2019-07-11 14:20:48 支付接口 发送字符串: body=12&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8002/my_test/&openid=oCOvf53vqj5VijzvKxLRaji-FzBg&out_trade_no=12&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826048&total_amount=1&sign=15e9e413037df4ab6ecd28a2ed3b074f
+
+2019-07-11 14:20:49 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711142029926126', 'data2': None}
+
+2019-07-11 14:21:41 支付接口 发送字符串: body=12&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8002/my_test/&openid=oCOvf5_bPLr-WJ7T41Iv_s7qi53w&out_trade_no=12&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826101&total_amount=1&sign=46483b252ecfb2eede4043f25d5ffac0
+
+2019-07-11 14:21:42 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711142124030683', 'data2': None}
+
+2019-07-11 14:26:06 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826366&total_amount=1&sign=4aafb6d77bf525dd9467792f7019aa04
+
+2019-07-11 14:26:07 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:07 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826367&total_amount=1&sign=c71bf8dc69c672ad4cdb167613991967
+
+2019-07-11 14:26:07 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:07 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826367&total_amount=1&sign=c71bf8dc69c672ad4cdb167613991967
+
+2019-07-11 14:26:07 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:07 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826367&total_amount=1&sign=c71bf8dc69c672ad4cdb167613991967
+
+2019-07-11 14:26:07 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:07 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826367&total_amount=1&sign=c71bf8dc69c672ad4cdb167613991967
+
+2019-07-11 14:26:07 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:07 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826367&total_amount=1&sign=c71bf8dc69c672ad4cdb167613991967
+
+2019-07-11 14:26:08 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:08 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826368&total_amount=1&sign=848ef2e0888cb204cb75e5b2da3f49bc
+
+2019-07-11 14:26:08 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:08 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826368&total_amount=1&sign=848ef2e0888cb204cb75e5b2da3f49bc
+
+2019-07-11 14:26:08 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:08 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826368&total_amount=1&sign=848ef2e0888cb204cb75e5b2da3f49bc
+
+2019-07-11 14:26:08 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:08 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826368&total_amount=1&sign=848ef2e0888cb204cb75e5b2da3f49bc
+
+2019-07-11 14:26:09 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:09 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826369&total_amount=1&sign=3a877f968f039aab10f603bf6b61d3bc
+
+2019-07-11 14:26:09 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:09 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826369&total_amount=1&sign=3a877f968f039aab10f603bf6b61d3bc
+
+2019-07-11 14:26:09 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:09 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826369&total_amount=1&sign=3a877f968f039aab10f603bf6b61d3bc
+
+2019-07-11 14:26:09 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:09 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826369&total_amount=1&sign=3a877f968f039aab10f603bf6b61d3bc
+
+2019-07-11 14:26:09 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:09 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826369&total_amount=1&sign=3a877f968f039aab10f603bf6b61d3bc
+
+2019-07-11 14:26:10 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:10 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826370&total_amount=1&sign=689bb2ce2a83d460c5026a380e6fd4e9
+
+2019-07-11 14:26:10 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:10 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826370&total_amount=1&sign=689bb2ce2a83d460c5026a380e6fd4e9
+
+2019-07-11 14:26:10 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:10 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826370&total_amount=1&sign=689bb2ce2a83d460c5026a380e6fd4e9
+
+2019-07-11 14:26:10 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:10 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826370&total_amount=1&sign=689bb2ce2a83d460c5026a380e6fd4e9
+
+2019-07-11 14:26:10 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:10 支付接口 发送字符串: body=5&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=222222&out_trade_no=5&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826370&total_amount=1&sign=689bb2ce2a83d460c5026a380e6fd4e9
+
+2019-07-11 14:26:11 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 14:26:48 支付接口 发送字符串: body=11&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/goods/pay_suc/&openid=oCOvf5_bPLr-WJ7T41Iv_s7qi53w&out_trade_no=11&paymentType=rz_wx_wap&quit_url=47.112.126.133:8001/goods/pay/&return_url=47.112.126.133:8001/goods/orders/&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562826408&total_amount=1&sign=b84d1d565733eff39b92c833fa00e4e4
+
+2019-07-11 14:26:48 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711142629674971', 'data2': None}
+
+2019-07-11 17:10:26 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836226&total_amount=1&sign=9cca13fb1974d9c804121e3fde39eb50
+
+2019-07-11 17:10:28 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:28 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836228&total_amount=1&sign=01ffce1d856503c0fdc06cbe0feaadae
+
+2019-07-11 17:10:28 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:28 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836228&total_amount=1&sign=01ffce1d856503c0fdc06cbe0feaadae
+
+2019-07-11 17:10:28 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:28 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836228&total_amount=1&sign=01ffce1d856503c0fdc06cbe0feaadae
+
+2019-07-11 17:10:29 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:29 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836229&total_amount=1&sign=a56f0192bf04a0b59b53bd09a4ffc4e8
+
+2019-07-11 17:10:29 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:29 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836229&total_amount=1&sign=a56f0192bf04a0b59b53bd09a4ffc4e8
+
+2019-07-11 17:10:29 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:29 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836229&total_amount=1&sign=a56f0192bf04a0b59b53bd09a4ffc4e8
+
+2019-07-11 17:10:29 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:29 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836229&total_amount=1&sign=a56f0192bf04a0b59b53bd09a4ffc4e8
+
+2019-07-11 17:10:29 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:29 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836229&total_amount=1&sign=a56f0192bf04a0b59b53bd09a4ffc4e8
+
+2019-07-11 17:10:30 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:30 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836230&total_amount=1&sign=5ff10328c326613ba554df60a8d8dde3
+
+2019-07-11 17:10:30 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:30 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836230&total_amount=1&sign=5ff10328c326613ba554df60a8d8dde3
+
+2019-07-11 17:10:30 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:30 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836230&total_amount=1&sign=5ff10328c326613ba554df60a8d8dde3
+
+2019-07-11 17:10:30 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:10:30 支付接口 发送字符串: body=6&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=222222&out_trade_no=6&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836230&total_amount=1&sign=5ff10328c326613ba554df60a8d8dde3
+
+2019-07-11 17:10:31 返回数据: {'code': -99, 'message': '微信统一下单失败', 'total': 0, 'data': None, 'data2': None}
+
+2019-07-11 17:11:28 支付接口 发送字符串: body=10&client_ip=47.112.126.133&currency=CNY&nonce_str=1&notify_url=http://47.112.126.133:8003/pay_suc/&openid=oCOvf51TJSrMUxTJCx6t8JvvTchE&out_trade_no=10&paymentType=rz_wx_wap&quit_url=qqq&return_url=qqq&rzAppId=20190710144426414598&signType=MD5&subject=test1&timeStamp=1562836288&total_amount=2000&sign=fc97fdd2d8f96f864c54ccd5cb23bd3b
+
+2019-07-11 17:11:28 返回数据: {'code': 10000, 'message': '请跳转完成支付', 'total': 0, 'data': 'http://pay.ie1e.com/weixin/PublicNoPay?oid=RZ20190711171108695703', 'data2': None}
